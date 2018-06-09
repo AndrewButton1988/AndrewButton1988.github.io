@@ -1,0 +1,165 @@
+
+/*fonts*/
+
+h1 {
+	font-family: "franklin gothic heavy";
+	font-size: 3.5rem;
+}
+
+h2 {
+	font-family: "franklin gothic medium";
+	font-size: 3rem;
+}
+
+h3 {
+	font-family: "franklin gothic medium";
+	font-size: 2rem;
+}
+
+
+p {
+	font-family: "lato";
+}
+
+.nav-link {
+	font-size: 1.5rem;
+}
+
+.um {
+	font-size: 1.5rem;
+}
+
+.lead {
+  font-size: 2rem;
+  font-weight: 300;
+}
+
+.lead2 {
+  font-size: 1.6rem;
+  font-weight: 200;
+}
+
+/*media queries for things that need to be resized*/
+
+@media only screen and (max-width: 1000px) {
+	h1 {
+	font-family: "franklin gothic heavy";
+	font-size: 3rem;
+}
+
+h2 {
+	font-family: "franklin gothic medium";
+	font-size: 2.5rem;
+}
+
+h3 {
+	font-family: "franklin gothic medium";
+	font-size: 1.5rem;
+}
+
+h4 {
+	font-family: "lato";
+	font-size: 1.2rem;
+}
+
+}
+
+@media only screen and (max-width: 800px) {
+    /*fonts*/
+
+h1 {
+	font-family: "franklin gothic heavy";
+	font-size: 2.5rem;
+}
+
+h2 {
+	font-family: "franklin gothic medium";
+	font-size: 1.75rem;
+}
+
+h3 {
+	font-family: "franklin gothic medium";
+	font-size: 1.2rem;
+}
+
+h4 {
+	font-family: "lato";
+	font-size: 1.5rem;
+}
+
+
+p {
+	font-family: "lato";
+}
+
+.nav-link {
+	font-size: 1.1rem;
+}
+
+.um {
+	font-size: 1.1rem;
+}
+
+.lead {
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+
+.lead2 {
+  font-size: 1.2rem;
+  font-weight: 200;
+}
+
+}
+
+
+/*divs*/
+
+header {	
+  padding: 80px 0 100px;
+  background-image: url('../images/bg.jpg');
+  background-size: cover;
+  height: 100%;
+}
+
+.border-top {
+	border-top: 5px solid black;
+}
+
+.blue {
+	color: #007bff;
+}
+
+/*buttons*/
+
+.btn {
+  font-size: 1.75rem;
+  font-family: "franklin gothic medium";
+  padding: 0.8rem 1.6rem;
+}
+
+
+/*misc*/
+
+.bg-dark {
+  background-color: #252525;
+  }
+
+
+.spacer {
+padding-bottom: 20px;
+}
+
+.spacer-sm {
+padding-bottom: 20px;
+}
+
+.spacer-duo {
+padding-bottom: 20px;
+padding-top: 20px;
+}
+
+#round {
+	border-radius: 50%;
+}
+

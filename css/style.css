@@ -1,6 +1,6 @@
 /*fixed height attributes */
 
-fixedheight {
+.fixedheight {
 display: block;
 height: 1000px;
 }

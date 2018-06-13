@@ -2,7 +2,7 @@
 
 .fixedheight {
 display: block;
-height: 1000px;
+min-height: 1000px;
 }
 
 /*fonts*/

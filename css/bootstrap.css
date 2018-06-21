@@ -3849,7 +3849,7 @@ tbody.collapse.show {
 .nav-link {
   display: block;
   padding: 0.5rem 1rem;
-  font-family: "franklin gothic medium";
+  font-family: "franklin gothic medium", , "libre franklin";
 }
 
 
@@ -3971,7 +3971,7 @@ tbody.collapse.show {
   font-size: 2rem;
   line-height: inherit;
   white-space: nowrap;
-  font-family: "franklin gothic heavy";
+  font-family: "franklin gothic heavy", "libre franklin";
 }
 
 .navbar-brand:hover, .navbar-brand:focus {

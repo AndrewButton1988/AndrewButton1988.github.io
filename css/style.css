@@ -10,18 +10,23 @@ min-height: 800px;
 /*fonts*/
 
 h1 {
-	font-family: "franklin gothic heavy";
+	font-family: "franklin gothic heavy", "libre franklin";
 	font-size: 3.5rem;
 }
 
 h2 {
-	font-family: "franklin gothic medium";
+	font-family: "franklin gothic medium", "libre franklin";
 	font-size: 3rem;
 }
 
 h3 {
-	font-family: "franklin gothic medium";
+	font-family: "franklin gothic medium", "libre franklin";
 	font-size: 2rem;
+}
+
+h4 {
+	font-family: "lato";
+	font-size: 1.4rem;
 }
 
 
@@ -51,22 +56,18 @@ p {
 
 @media only screen and (max-width: 1000px) {
 	h1 {
-	font-family: "franklin gothic heavy";
 	font-size: 3rem;
 }
 
 h2 {
-	font-family: "franklin gothic medium";
 	font-size: 2.5rem;
 }
 
 h3 {
-	font-family: "franklin gothic medium";
 	font-size: 1.5rem;
 }
 
 h4 {
-	font-family: "lato";
 	font-size: 1.2rem;
 }
 
@@ -76,28 +77,19 @@ h4 {
     /*fonts*/
 
 h1 {
-	font-family: "franklin gothic heavy";
 	font-size: 2.5rem;
 }
 
 h2 {
-	font-family: "franklin gothic medium";
 	font-size: 1.75rem;
 }
 
 h3 {
-	font-family: "franklin gothic medium";
 	font-size: 1.2rem;
 }
 
 h4 {
-	font-family: "lato";
 	font-size: 1.5rem;
-}
-
-
-p {
-	font-family: "lato";
 }
 
 .nav-link {

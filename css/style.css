@@ -144,6 +144,8 @@ header {
 
 .bg-dark {
   background-color: #252525;
+  background-image: url('../images/connectwork.png');
+  background-repeat: repeat;
   }
 
 

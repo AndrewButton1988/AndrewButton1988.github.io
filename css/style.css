@@ -10,9 +10,8 @@ min-height: 800px;
 /*fonts*/
 
 h1 {
-	font-family: "oswald", "libre franklin";
+	font-family: "franklin gothic medium", "libre franklin";
 	font-size: 3.5rem;
-	font-weight: bold;
 }
 
 h2 {

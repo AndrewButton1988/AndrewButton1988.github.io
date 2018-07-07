@@ -52,7 +52,7 @@ p {
   font-weight: 200;
 }
 
-.five {margin-top: 5%;}
+.five {margin-top: 4%;}
 
 /*media queries for things that need to be resized*/
 
@@ -156,8 +156,8 @@ padding-bottom: 20px;
 }
 
 .spacer-duo {
-padding-bottom: 40px;
-padding-top: 40px;
+padding-bottom: 20px;
+padding-top: 20px;
 }
 
 #round {
